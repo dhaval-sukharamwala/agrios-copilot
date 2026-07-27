@@ -16,6 +16,23 @@ Most farm management tools are dashboards — overwhelming, data-dense interface
 
 ---
 
+## 🧠 Visual Learning
+
+Understand the entire AgriOS product in one visual.
+
+This infographic summarizes the product vision, AI decision engine, UX process, user journey, information architecture, product thinking, and expected impact before diving into the complete case study.
+
+<p align="center">
+  <img
+    src="agrios-copilot.png"
+    alt="AgriOS Copilot Visual Learning"
+    width="100%">
+</p>
+
+> **Decision-first UX** • **AI Copilot** • **Explainable AI** • **Precision Agriculture**
+
+---
+
 ## 💡 The Problem
 
 Traditional farm management tools fail because:
